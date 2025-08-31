@@ -141,7 +141,7 @@ function App() {
 
   return (
     <div className="h-screen w-full bg-gray-100">
-      {/* Main Content (Full width — sidebar removed) */}
+      
       <div className="p-6 h-full overflow-y-auto">
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
